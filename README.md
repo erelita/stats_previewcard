@@ -54,6 +54,6 @@ Making responsive website is still hard for me. I made this based on the widths 
 
 ## Author
 
-- Github - [Add your name here](https://github.com/erelita)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/erelita)
+- Github - [Erelita](https://github.com/erelita)
+- Frontend Mentor - [@erelita](https://www.frontendmentor.io/profile/erelita)
 
